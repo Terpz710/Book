@@ -1,0 +1,11 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/Terpz710/Book
+build-by-default: true
+branches:
+- main
+projects:
+  Book:
+    path: ""
+    libs:
+      - src: cooldogepm/libBook/libBook
+        version: 0.0.3
+...
