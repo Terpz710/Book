@@ -7,6 +7,7 @@ namespace Terpz710\book;
 use pocketmine\plugin\PluginBase;
 use pocketmine\player\Player;
 use pocketmine\item\VanillaItems;
+use Terpz710\book\events\BookListener;
 // Import this class
 use cooldogedev\libBook\libBook;
 
