@@ -9,7 +9,7 @@ use pocketmine\player\Player;
 use pocketmine\item\VanillaItems;
 use Terpz710\book\events\BookListener;
 // Import this class
-use cooldogedev\libBook\libBook;
+use cooldogedev\libBook\LibBook;
 
 class Book extends PluginBase {
 
